@@ -18,6 +18,10 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "glob": "^7.1.4",
+    "nodemiral": "^1.1.1",
+    "ssh2": "^0.8.5",
+    "ssh2-sftp-client": "^4.2.0",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
